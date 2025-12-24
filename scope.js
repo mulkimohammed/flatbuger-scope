@@ -1,5 +1,5 @@
 // Write your solution in this file!
-const burgers = ["Cheeseburger", "Hamburger"];
+const burgers = ["Hamburger", "Cheeseburger"];
 let featuredDrink = "Strawberry Milkshake";
 
 function addBurger() {
